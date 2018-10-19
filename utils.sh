@@ -6,7 +6,8 @@ brew install gnu-tar --with-default-names
 brew install gnu-indent --with-default-names
 brew install gnu-which --with-default-names
 brew install gnu-grep --with-default-names
-brew install findutils
+brew install findutils --with-default-names
+brew install gnutls
 
 # Install bash 4
 brew install bash
